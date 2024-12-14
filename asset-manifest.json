@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/Open-PRO/static/js/main.88d6b5bf.js",
+    "main.css": "/Open-PRO/static/css/main.987925de.css",
+    "main.js": "/Open-PRO/static/js/main.3035053d.js",
     "index.html": "/Open-PRO/index.html",
-    "main.88d6b5bf.js.map": "/Open-PRO/static/js/main.88d6b5bf.js.map"
+    "main.987925de.css.map": "/Open-PRO/static/css/main.987925de.css.map",
+    "main.3035053d.js.map": "/Open-PRO/static/js/main.3035053d.js.map"
   },
   "entrypoints": [
-    "static/js/main.88d6b5bf.js"
+    "static/css/main.987925de.css",
+    "static/js/main.3035053d.js"
   ]
 }
