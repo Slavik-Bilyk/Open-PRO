@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Open-PRO/static/js/main.7209b0de.js",
+    "main.js": "/Open-PRO/static/js/main.e65cba61.js",
     "index.html": "/Open-PRO/index.html",
-    "main.7209b0de.js.map": "/Open-PRO/static/js/main.7209b0de.js.map"
+    "main.e65cba61.js.map": "/Open-PRO/static/js/main.e65cba61.js.map"
   },
   "entrypoints": [
-    "static/js/main.7209b0de.js"
+    "static/js/main.e65cba61.js"
   ]
 }
